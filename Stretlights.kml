@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Untitled map</name>
+	<name>Untitled map (fixed colors)</name>
 	<gx:CascadingStyle kml:id="__managed_style_2CDE4BD7163B22784850">
 		<Style>
 			<IconStyle>
@@ -14,11 +14,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff26a7ff</color>
+				<color>ffffa726</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4058eeff</color>
+				<color>40ffee58</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -36,11 +36,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff26a7ff</color>
+				<color>ffffa726</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4058eeff</color>
+				<color>40ffee58</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -59,11 +59,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff3c8e38</color>
+				<color>ff388e3c</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>406b7900</color>
+				<color>4000796b</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -92,11 +92,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffa21f7b</color>
+				<color>ff7b1fa2</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>40bc47ab</color>
+				<color>40ab47bc</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -124,11 +124,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff3c8e38</color>
+				<color>ff388e3c</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>406b7900</color>
+				<color>4000796b</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -156,11 +156,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffa21f7b</color>
+				<color>ff7b1fa2</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>40bc47ab</color>
+				<color>40ab47bc</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
@@ -189,7 +189,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>fffbc02d</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
@@ -211,7 +211,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>fffbc02d</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -222,6 +222,8 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
+
+	<!-- Placemarks are unchanged from user's file -->
 	<Placemark id="03DB9388283B226D6A3B">
 		<name>Street 1</name>
 		<LookAt>
