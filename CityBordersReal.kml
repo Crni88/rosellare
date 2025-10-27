@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Untitled map</name>
+
 	<gx:CascadingStyle kml:id="__managed_style_2792E8BF7C3B5A8CDAFF">
 		<Style>
 			<IconStyle>
@@ -16,6 +17,11 @@
 				<color>ff2dc0fb</color>
 				<width>8</width>
 			</LineStyle>
+			<PolyStyle>
+				<fill>0</fill>
+				<outline>1</outline>
+				<color>00ffffff</color>
+			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
 			</BalloonStyle>
@@ -35,6 +41,11 @@
 				<color>ff2dc0fb</color>
 				<width>5.33333</width>
 			</LineStyle>
+			<PolyStyle>
+				<fill>0</fill>
+				<outline>1</outline>
+				<color>00ffffff</color>
+			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
 			</BalloonStyle>
