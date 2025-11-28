@@ -13,7 +13,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>fffbc02d</color>
 				<width>2.66667</width>
 			</LineStyle>
 			<PolyStyle>
@@ -44,11 +44,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff5c3f00</color>
+				<color>ff003f5c</color>
 				<width>2.66667</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>805c3f00</color>
+				<color>80003f5c</color>
 			</PolyStyle>
 			<BalloonStyle>
 			</BalloonStyle>
@@ -66,11 +66,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffa0c7d8</color>
+				<color>ffd8c7a0</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>807d756c</color>
+				<color>806c757d</color>
 			</PolyStyle>
 			<BalloonStyle>
 			</BalloonStyle>
@@ -87,11 +87,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffa0c7d8</color>
+				<color>ffd8c7a0</color>
 				<width>2.66667</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>807d756c</color>
+				<color>806c757d</color>
 			</PolyStyle>
 			<BalloonStyle>
 			</BalloonStyle>
@@ -119,11 +119,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff7a6600</color>
+				<color>ff00667a</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>805c3f00</color>
+				<color>80003f5c</color>
 			</PolyStyle>
 			<BalloonStyle>
 			</BalloonStyle>
@@ -140,11 +140,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff7a6600</color>
+				<color>ff00667a</color>
 				<width>2.66667</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>805c3f00</color>
+				<color>80003f5c</color>
 			</PolyStyle>
 			<BalloonStyle>
 			</BalloonStyle>
@@ -162,11 +162,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff5c3f00</color>
+				<color>ff003f5c</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>805c3f00</color>
+				<color>80003f5c</color>
 			</PolyStyle>
 			<BalloonStyle>
 			</BalloonStyle>
@@ -184,7 +184,7 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2dc0fb</color>
+				<color>fffbc02d</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>

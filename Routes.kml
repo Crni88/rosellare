@@ -2,9 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Untitled map (flattened styles)</name>
-
     <Placemark>
-      <name>Amina</name>
+      <name>Route 1</name>
       <Style>
         <LineStyle>
           <color>ff2dc0fb</color>
@@ -17,7 +16,6 @@
         </coordinates>
       </LineString>
     </Placemark>
-
     <Placemark>
       <name>Path 2</name>
       <Style>
@@ -47,6 +45,5 @@
         </coordinates>
       </LineString>
     </Placemark>
-
   </Document>
 </kml>
