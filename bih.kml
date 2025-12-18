@@ -12,13 +12,18 @@
         <PolyStyle>
             <color>40ffb300</color> <!-- transparent amber fill -->
         </PolyStyle>
+
+        <!-- Hide the popup balloon entirely -->
+        <BalloonStyle>
+            <displayMode>hide</displayMode>
+        </BalloonStyle>
     </Style>
 
     <Folder>
         <name>BiH</name>
 
         <Placemark>
-            <name>BiH Boundary</name>
+            <!-- Removed name to avoid any title text if a viewer still tries to show something -->
             <styleUrl>#bih-power-style</styleUrl>
             <Polygon>
                 <outerBoundaryIs>
