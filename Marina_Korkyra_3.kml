@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1uDv_j69kV-aBOrZ8C8ht1Ucaxg59Vkn5">
+	<name>Marina Korkyra</name>
+	<gx:CascadingStyle kml:id="__managed_style_26F36C3D063C6BF29ABE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>406b7900</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_29C38036823C6B9C60DC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>405053ef</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1005A3BAE13C6B9C60DC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>405053ef</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FFDA83ACF3C6B9C60DC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1005A3BAE13C6B9C60DC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29C38036823C6B9C60DC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_107DE099DC3C6B99EFAE">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>406abb66</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="style-beige">
+		<LineStyle>
+			<color>ffa0c7d8</color>
+			<width>2.66667</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807d756c</color>
+		</PolyStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_29D3A258803C6B9727DB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F4404F6B73C6B9727DB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FF8CB5E293C6B9727DB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F4404F6B73C6B9727DB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29D3A258803C6B9727DB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_069D80F5663C6BF29ABE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B8AA3D2633C6BF29ABE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26F36C3D063C6BF29ABE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style-gold">
+		<LineStyle>
+			<color>ff7a6600</color>
+			<width>2.66667</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>805c3f00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style-blue-berth">
+		<LineStyle>
+			<color>ff2dc0fb</color>
+			<width>2.66667</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>40ffffff</color>
+		</PolyStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_1B8AA3D2633C6BF29ABE">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>406b7900</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B59BA47293C6B99EFAE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>406abb66</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BF7F01B053C6B99EFAE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_107DE099DC3C6B99EFAE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B59BA47293C6B99EFAE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style-brown">
+		<LineStyle>
+			<color>ff5c3f00</color>
+			<width>2.66667</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>805c3f00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="09DE276F1E3BAD48B24C">
+		<name>Berts</name>
+		<LookAt>
+			<longitude>16.71327336135353</longitude>
+			<latitude>42.96067924659802</latitude>
+			<altitude>0.4911341806372005</altitude>
+			<heading>10.75663997016644</heading>
+			<tilt>18.0917018261848</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>265.5486530647977</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-gold</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71364305062059,42.96045249516604,0 16.71346927459186,42.96053520141841,0 16.71345858076782,42.96055875832212,0 16.71346832145629,42.96056974403903,0 16.71344083234742,42.96090905031551,0 16.71335646273637,42.96091882956134,0 16.71325941980655,42.96092601767236,0 16.71306988387596,42.96094073339915,0 16.71269829563437,42.96096799107933,0 16.71271327642433,42.96105829094427,0 16.71265082513845,42.96106336156853,0 16.7125865114263,42.96106954643614,0 16.71258189802416,42.96103509009763,0 16.7125769354872,42.96100413841469,0 16.71256820886327,42.96093805375187,0 16.71256324092841,42.96089003930395,0 16.71253360683635,42.96084484319026,0 16.71250596346456,42.96081885363526,0 16.71247311838206,42.96079945257055,0 16.71244533051062,42.96078436627069,0 16.71239114269638,42.96076962703386,0 16.71235164176888,42.96076450125278,0 16.71230543787281,42.96076202429099,0 16.71211479611037,42.96076454499855,0 16.71190763226553,42.96076759337622,0 16.71167661443333,42.96076922940924,0 16.71154865369938,42.96076943559769,0 16.71148335670315,42.96077059019229,0 16.71141623574418,42.96076962868693,0 16.71136121435232,42.96076160207659,0 16.71130307875827,42.96074761784715,0 16.71125048578812,42.96072693344818,0 16.71118928848335,42.96069720509925,0 16.71115012110065,42.9606667728591,0 16.71112375719679,42.96064462902839,0 16.71109282166636,42.96061156013945,0 16.71108646451122,42.96060431748418,0 16.71107015506504,42.96057758982201,0 16.71106655926394,42.96056998751458,0 16.7110605560255,42.96056149536756,0 16.7110560818401,42.9605524521741,0 16.71105022897079,42.96053905633655,0 16.711046299397,42.96052978347679,0 16.71104189708932,42.96051246362196,0 16.71099336226736,42.96051456400672,0 16.71095360869966,42.96024595531053,0 16.71107736259214,42.9602375247103,0 16.71108530053154,42.96027666824293,0 16.71110223002099,42.96039754169475,0 16.71111543338927,42.96049712064368,0 16.71111873146698,42.96051509722516,0 16.71112473352002,42.96052988546729,0 16.71113194517647,42.96054406881704,0 16.71114218786956,42.96056016637154,0 16.7111513318975,42.96057172740993,0 16.71117567294166,42.96060222023959,0 16.71119140399272,42.96061602186398,0 16.71121180130574,42.96063405038679,0 16.71124808785145,42.96065639885982,0 16.71127404280627,42.96066918583451,0 16.71130373430056,42.96068088454957,0 16.7113642719142,42.96070214017341,0 16.71139229627187,42.96070721798712,0 16.71142601982622,42.96071063909115,0 16.71149091396654,42.96071145122927,0 16.71159987875156,42.96071168566611,0 16.71165587934912,42.96071088674436,0 16.71181425730716,42.9607082710225,0 16.71186075844748,42.96070837624167,0 16.71195454887249,42.96070707886062,0 16.71200237385778,42.96070643052713,0 16.71205409383288,42.96070555259371,0 16.71211809437551,42.96070483372443,0 16.71220788432876,42.96070417647677,0 16.71226363925762,42.9607034285249,0 16.71234391982541,42.9607035890348,0 16.71239346139777,42.96070666450761,0 16.71244913719229,42.96071798503157,0 16.71248397212059,42.96072762817759,0 16.71253164200661,42.96074703404074,0 16.71255135404393,42.96075672244327,0 16.71257979699055,42.96077450290695,0 16.71260759783668,42.96079499005457,0 16.71264080576838,42.9608269950272,0 16.71266037242178,42.96085341153945,0 16.7126731881487,42.96087255823072,0 16.71268770217434,42.96090378001009,0 16.71268947129527,42.96090893177355,0 16.7127111342688,42.96090623754565,0 16.71281689832168,42.96089875270731,0 16.71295658233661,42.9608896737758,0 16.71320120531249,42.96087040045894,0 16.71336728024767,42.96085723879074,0 16.71336753566324,42.96083784414661,0 16.71337416872208,42.96075058447258,0 16.71338823865532,42.96057920378708,0 16.71339120812054,42.96053872218515,0 16.71338582005203,42.96052981643434,0 16.71336498106565,42.96052143107506,0 16.71318454233759,42.96043440658168,0 16.71294144021242,42.96031725492134,0 16.7127409779591,42.96021912722048,0 16.71264058054776,42.96033105728885,0 16.71245839425738,42.96053258175393,0 16.71242541005643,42.96051878869482,0 16.71244308016021,42.96050323425593,0 16.71253306896808,42.9604025128198,0 16.71264406449988,42.96027968244591,0 16.71271280183603,42.96020547372572,0 16.71257522849463,42.96012331392554,0 16.71251152361739,42.96008332967263,0 16.71242133127826,42.96002758968942,0 16.71231681777936,42.95996315813722,0 16.71228679191751,42.95994426733577,0 16.71226101946044,42.95995869977799,0 16.71216581383763,42.96001140616061,0 16.71210384060856,42.96004584566314,0 16.71191576842026,42.96014985341579,0 16.71177203056167,42.96022801689272,0 16.7115773934011,42.96033828535523,0 16.71154246723856,42.96030562294158,0 16.71165890181939,42.96024097578609,0 16.71181572541514,42.96015365029658,0 16.71197477396873,42.96006888790739,0 16.71203014147447,42.96003749090087,0 16.71205175777657,42.96002388808242,0 16.71197119113841,42.95994390922193,0 16.71185108231111,42.95982668287068,0 16.71164666485825,42.95963088254543,0 16.71152187746085,42.95950718966454,0 16.71151939498359,42.95950636035045,0 16.7115373026413,42.95949484594621,0 16.71155983781881,42.95948250369585,0 16.71160365203023,42.95945881714435,0 16.71164665510341,42.95943555441186,0 16.71169186984378,42.95941378404998,0 16.71187845050354,42.95957173760748,0 16.71206891710206,42.95972833958201,0 16.71224542585199,42.959874875834,0 16.7122769442824,42.95990018742989,0 16.71230989880483,42.95991888546813,0 16.71234301875797,42.95993908748373,0 16.71268332696936,42.96014952785153,0 16.71275403818214,42.96018942334985,0 16.71284817814997,42.96023458492188,0 16.71300599742288,42.96031179190482,0 16.71336759416035,42.96048795787947,0 16.71340980420271,42.96046799632958,0 16.71347767303163,42.9604292205461,0 16.71357013770367,42.96037579036226,0 16.71364305062059,42.96045249516604,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0840DBD2283BAD50ED1B">
+		<name>Administrative Area</name>
+		<LookAt>
+			<longitude>16.71378189951735</longitude>
+			<latitude>42.96083280109512</latitude>
+			<altitude>1.125694248971167</altitude>
+			<heading>10.75809800392368</heading>
+			<tilt>18.03527459044782</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>228.8188100505795</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-beige</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71358591309826,42.96048962678543,0 16.71365029221821,42.960558391981,0 16.71366272585659,42.96055140867772,0 16.71368352794224,42.96056174480986,0 16.71373101860463,42.96053279202459,0 16.71376267562891,42.96056308630308,0 16.71370833519925,42.96059651576586,0 16.7139476365858,42.96082435970514,0 16.71383967378774,42.96096522464572,0 16.71351010876305,42.96091191718119,0 16.71352972574984,42.96062424135568,0 16.71361038335278,42.96058217099174,0 16.71354124232152,42.96051360470204,0 16.71358591309826,42.96048962678543,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D00DD11723BAD57711B">
+		<name>New Berts</name>
+		<LookAt>
+			<longitude>16.71098637696254</longitude>
+			<latitude>42.96051879788244</latitude>
+			<altitude>-0.04715135788690206</altitude>
+			<heading>-12.14490617195708</heading>
+			<tilt>15.13630912393288</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.89848438421086</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-gold</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71089365339298,42.96025099191317,0 16.71091577442349,42.96049654440944,0 16.71091706189186,42.96050256147815,0 16.71091765513188,42.9605073607964,0 16.71091502105946,42.96051108971657,0 16.71090962089533,42.96051242387696,0 16.71090444638898,42.96051270522555,0 16.71089675895092,42.96051064164424,0 16.71088963126885,42.96050673867256,0 16.71062496610357,42.96038515013508,0 16.71061181480316,42.96037068655512,0 16.71060842023433,42.96035785156644,0 16.71061104531846,42.9603424761096,0 16.71080401182933,42.96025543258402,0 16.71089365339298,42.96025099191317,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AF1919B0B3BAD5AA049">
+		<name>New Berts 2</name>
+		<LookAt>
+			<longitude>16.71092397839919</longitude>
+			<latitude>42.95982728276153</latitude>
+			<altitude>-0.04712753237857581</altitude>
+			<heading>-11.14568897179428</heading>
+			<tilt>13.51968216515796</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>293.6693158624257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-brown</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71154024538259,42.959527166571,0 16.71095650311463,42.95983814670755,0 16.71093382181855,42.95981731411114,0 16.71151689113822,42.95950634122812,0 16.71154024538259,42.959527166571,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F4AFD94243BAD5C6760">
+		<name>New Berts 3</name>
+		<LookAt>
+			<longitude>16.7106405825055</longitude>
+			<latitude>42.96015910767437</latitude>
+			<altitude>-0.04715241533657988</altitude>
+			<heading>-11.44319652663544</heading>
+			<tilt>13.79185684395632</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>212.3295937156582</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-gold</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71019162002397,42.95992983294902,0 16.71047513233134,42.95969105383231,0 16.71069092890809,42.95951671488228,0 16.71078060269714,42.9595762840754,0 16.71030128818218,42.95996336766814,0 16.71027700919924,42.96015902349213,0 16.71026125387839,42.96035752825083,0 16.7101443638875,42.96035922628137,0 16.71019162002397,42.95992983294902,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AB2FBB7773BCC9B3418">
+		<name>Berth 1</name>
+		<LookAt>
+			<longitude>16.71175692730032</longitude>
+			<latitude>42.9606573836271</latitude>
+			<altitude>-0.04712882678186037</altitude>
+			<heading>-1.235641484491097</heading>
+			<tilt>9.935401312148322</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>189.6014195962744</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71151292397244,42.9605685416856,0 16.71159299479707,42.96057096512094,0 16.71159510746659,42.96071081586435,0 16.71151418634021,42.9607123217237,0 16.71151292397244,42.9605685416856,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0EBEEDC88A3BCC9B82C1">
+		<name>Berth 2</name>
+		<LookAt>
+			<longitude>16.71171155503612</longitude>
+			<latitude>42.96063077867191</latitude>
+			<altitude>-0.04713602097629055</altitude>
+			<heading>-1.235638025614386</heading>
+			<tilt>9.935229057326335</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>78.58541792124925</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71159845290296,42.96071137997476,0 16.71159472736698,42.96056990721854,0 16.71165170343678,42.96056965498278,0 16.71165937524467,42.96071110789682,0 16.71159845290296,42.96071137997476,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="007CE0DD1C3BCC9BE006">
+		<name>Berth 3</name>
+		<LookAt>
+			<longitude>16.71171142495945</longitude>
+			<latitude>42.96065533291993</latitude>
+			<altitude>-0.04713345056015061</altitude>
+			<heading>-1.235637227611531</heading>
+			<tilt>9.935189322269942</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>52.97668539823462</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71165936389693,42.96071148946713,0 16.71165188574145,42.96056938861012,0 16.71172201974202,42.96056953710318,0 16.71172471417322,42.96070987916477,0 16.71165936389693,42.96071148946713,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="020A92BC353BCC9C3D28">
+		<name>Berth 4</name>
+		<LookAt>
+			<longitude>16.71175628261094</longitude>
+			<latitude>42.9606620015871</latitude>
+			<altitude>-0.04712731240074985</altitude>
+			<heading>-1.235637231012119</heading>
+			<tilt>9.935189490394023</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>53.0850638528409</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.7117717772445,42.96070925550321,0 16.71176630579254,42.96056561775865,0 16.71183289862062,42.96056413293135,0 16.71183876868191,42.96070876380634,0 16.7117717772445,42.96070925550321,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06E3A0F32A3BCC9CA7B3">
+		<name>Berth 5</name>
+		<LookAt>
+			<longitude>16.7120680586823</longitude>
+			<latitude>42.96038852989014</latitude>
+			<altitude>-0.047135798876492</altitude>
+			<heading>-1.491407429517865</heading>
+			<tilt>0.1721980544524348</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>107.3456607788103</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71244997623369,42.96049374548751,0 16.71230177447226,42.96042397971805,0 16.71236256827869,42.96035444627503,0 16.71251101735998,42.96042926274677,0 16.71244997623369,42.96049374548751,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="009A32D0883BCC9D21FE">
+		<name>Berth 6</name>
+		<LookAt>
+			<longitude>16.71196877291272</longitude>
+			<latitude>42.960300398437</latitude>
+			<altitude>-0.04713429086129928</altitude>
+			<heading>-0.08310927146001962</heading>
+			<tilt>1.580027740716451</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>92.44289317606672</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71184865260296,42.96018701614727,0 16.71189215647768,42.96023715993451,0 16.71171222091039,42.96032538421191,0 16.71166949647618,42.96028701177982,0 16.71184865260296,42.96018701614727,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="049255C2DC3BCC9DC41E">
+		<name>Berth 7</name>
+		<LookAt>
+			<longitude>16.71266255618131</longitude>
+			<latitude>42.96077136861229</latitude>
+			<altitude>-0.0471368733019506</altitude>
+			<heading>-0.08310926943324326</heading>
+			<tilt>1.580026870534345</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>88.93922819124784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#style-blue-berth</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71270698810635,42.96076837489812,0 16.71278968451653,42.96076211845731,0 16.71281432322474,42.96089942484243,0 16.71272906335684,42.96090627257139,0 16.71270698810635,42.96076837489812,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0CA752FCEC3C6B9727D3">
+		<name>Berth 8</name>
+		<LookAt>
+			<longitude>16.71210061258461</longitude>
+			<latitude>42.96053779613577</latitude>
+			<altitude>-0.04714394017802492</altitude>
+			<heading>-1.057281021563522e-06</heading>
+			<tilt>0.1050548582304264</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>136.0646996591095</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FF8CB5E293C6B9727DB</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71184858433596,42.9607081806574,0 16.71184381928143,42.96056642905449,0 16.711917789559,42.96056642918166,0 16.71192217416505,42.960707047916,0 16.71184858433596,42.9607081806574,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0114BA9A103C6B977A83">
+		<name>Berth 10</name>
+		<LookAt>
+			<longitude>16.71222244153132</longitude>
+			<latitude>42.96055129817495</latitude>
+			<altitude>-0.04714332409864741</altitude>
+			<heading>-1.070418546588095e-06</heading>
+			<tilt>0.1050548364814956</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>135.345672582971</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FF8CB5E293C6B9727DB</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71193220854013,42.96070719311486,0 16.71193196439774,42.96056609373316,0 16.71200870977685,42.96056609394217,0 16.71200783876243,42.96070623493596,0 16.71193220854013,42.96070719311486,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="092EE6A2833C6B981C08">
+		<name>Berth 11</name>
+		<LookAt>
+			<longitude>16.71220047353712</longitude>
+			<latitude>42.96058910435041</latitude>
+			<altitude>-0.04713071745944486</altitude>
+			<heading>-1.051916570756469e-06</heading>
+			<tilt>0.1050550388168047</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>148.4675313949083</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FF8CB5E293C6B9727DB</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71258728708987,42.96077584023465,0 16.71250052887342,42.96073252441021,0 16.71239764929824,42.96070693192267,0 16.71231696458335,42.96070397907017,0 16.712332475652,42.96062622034106,0 16.71255900741129,42.96067297616486,0 16.71268006369937,42.96073596943727,0 16.71258728708987,42.96077584023465,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="023BFC54233C6B988CAB">
+		<name>Berth 12</name>
+		<LookAt>
+			<longitude>16.71231154292197</longitude>
+			<latitude>42.96064002749822</latitude>
+			<altitude>0.03524570879535949</altitude>
+			<heading>-1.070870638317827e-06</heading>
+			<tilt>0.1050539642620491</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>83.52351555844507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FF8CB5E293C6B9727DB</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71201941168829,42.96070625430126,0 16.71201849423252,42.96056412826342,0 16.71209188444798,42.96056300966995,0 16.71209282772534,42.9607047618348,0 16.71201941168829,42.96070625430126,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E833A83E93C6B98C797">
+		<name>Berth 13</name>
+		<LookAt>
+			<longitude>16.71236446969254</longitude>
+			<latitude>42.96063412742258</latitude>
+			<altitude>0.0564798288191648</altitude>
+			<heading>-1.073040947839147e-06</heading>
+			<tilt>0.1050542789350673</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>102.7785611801664</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF7F01B053C6B99EFAE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71213488410852,42.96070523037849,0 16.71213577561003,42.96059245179323,0 16.7122122125843,42.96059060057007,0 16.71220770415714,42.96070461269017,0 16.71213488410852,42.96070523037849,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0A4143BD763C6B99724B">
+		<name>Berth 14</name>
+		<LookAt>
+			<longitude>16.71223174314407</longitude>
+			<latitude>42.96065808845147</latitude>
+			<altitude>-0.04711830391974869</altitude>
+			<heading>-1.060646802042381e-06</heading>
+			<tilt>0.1050533406722766</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>46.0911797880317</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF7F01B053C6B99EFAE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71222302981483,42.96070406173345,0 16.71222331509309,42.96059198960617,0 16.71230159664369,42.9605912611873,0 16.71229470401986,42.96070426747981,0 16.71222302981483,42.96070406173345,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0BDD8FC6323C6B99D860">
+		<name>Berth 15</name>
+		<LookAt>
+			<longitude>16.71254418537223</longitude>
+			<latitude>42.9603989745264</latitude>
+			<altitude>0.1073575891506917</altitude>
+			<heading>-1.066566657634605e-06</heading>
+			<tilt>0.1050543355124141</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>107.5161783773001</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.7126822273798,42.96028621830841,0 16.71283644208097,42.96036093037981,0 16.71277412162348,42.96042204573638,0 16.71262103631592,42.96035184121508,0 16.7126822273798,42.96028621830841,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AA5FF1AC33C6B9A9813">
+		<name>Berth 16</name>
+		<LookAt>
+			<longitude>16.713008921243</longitude>
+			<latitude>42.96081092890032</latitude>
+			<altitude>0.02191198134082306</altitude>
+			<heading>-1.059751293629663e-06</heading>
+			<tilt>0.1050551879435273</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>160.9805378492638</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF7F01B053C6B99EFAE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71290251622646,42.9608922662542,0 16.71288328002091,42.96075252244007,0 16.71303596213099,42.96073958575809,0 16.7130539123246,42.96088206104358,0 16.71290251622646,42.9608922662542,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0170700C103C6B9B1E8E">
+		<name>Berth 17</name>
+		<LookAt>
+			<longitude>16.71303373301066</longitude>
+			<latitude>42.96088213528876</latitude>
+			<altitude>0.03105986745375766</altitude>
+			<heading>-1.046879848143691e-06</heading>
+			<tilt>0.1050551460347244</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>158.8084607140627</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF7F01B053C6B99EFAE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71307553685355,42.96088047042519,0 16.71306058307322,42.96073805406761,0 16.71320169057574,42.96072481262298,0 16.71320886410093,42.96087008059474,0 16.71307553685355,42.96088047042519,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="016D5237613C6B9B7C1C">
+		<name>Berth 18</name>
+		<LookAt>
+			<longitude>16.7131885335875</longitude>
+			<latitude>42.96078711181946</latitude>
+			<altitude>0.3206070686368978</altitude>
+			<heading>-1.041542431703043e-06</heading>
+			<tilt>0.1050537403593866</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>73.70919867994417</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF7F01B053C6B99EFAE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71323622492046,42.96086794616502,0 16.71322356600635,42.96072285327639,0 16.71336764782326,42.96071255591571,0 16.71336743847293,42.96085847824325,0 16.71323622492046,42.96086794616502,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="05BD4B919F3C6B9D6F24">
+		<name>Berth 19</name>
+		<LookAt>
+			<longitude>16.7130677351821</longitude>
+			<latitude>42.96048711355726</latitude>
+			<altitude>0.5992322561748598</altitude>
+			<heading>-1.038456907191147e-06</heading>
+			<tilt>0.1050531699324294</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>44.48999589706091</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71310121743713,42.96050061122999,0 16.71317615716395,42.96042976427163,0 16.71323764247943,42.96046051264695,0 16.71316612343938,42.960531504042,0 16.71310121743713,42.96050061122999,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D03410A903C6B9DF6E4">
+		<name>Berth 21</name>
+		<LookAt>
+			<longitude>16.71286432230096</longitude>
+			<latitude>42.9603439135978</latitude>
+			<altitude>0.3944692991141929</altitude>
+			<heading>-1.037823013105426e-06</heading>
+			<tilt>0.1050535960148065</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>70.99867114521658</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71270519692816,42.96026465510221,0 16.71274288034393,42.9602213536582,0 16.71291225107287,42.96030362127822,0 16.71287124810521,42.96034153772106,0 16.71270519692816,42.96026465510221,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="05D650ABF13C6B9E9A5F">
+		<name>Berth 22</name>
+		<LookAt>
+			<longitude>16.71305596757771</longitude>
+			<latitude>42.96038236110866</latitude>
+			<altitude>0.764986320429859</altitude>
+			<heading>-1.028223822407042e-06</heading>
+			<tilt>0.105053286474357</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>54.19307478463452</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71317191297028,42.96039391675509,0 16.71321376403243,42.96036028139184,0 16.71337219665961,42.96043333323283,0 16.71332693852159,42.96046709534523,0 16.71317191297028,42.96039391675509,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D3A5E0AF43C6B9EE4D9">
+		<name>Berth 23</name>
+		<LookAt>
+			<longitude>16.71302194369514</longitude>
+			<latitude>42.96038805895038</latitude>
+			<altitude>0.6725009864777287</altitude>
+			<heading>-1.021559193130634e-06</heading>
+			<tilt>0.1050532904640909</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>54.61636728174199</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71303286704011,42.96032306971532,0 16.71306716896355,42.96029254801721,0 16.71318940293815,42.96035512213402,0 16.71315581710332,42.96038442592866,0 16.7130926624872,42.96035383255451,0 16.71303286704011,42.96032306971532,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F6D7A198B3C6B9F2B6C">
+		<name>Berth 24</name>
+		<LookAt>
+			<longitude>16.71284461299999</longitude>
+			<latitude>42.96021396642266</latitude>
+			<altitude>0.6386734655310855</altitude>
+			<heading>-1.020763570311669e-06</heading>
+			<tilt>0.1050533190791516</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.03215687421108</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71285470130154,42.96023471528305,0 16.71292792822982,42.96017750850079,0 16.71297950915612,42.96020901508636,0 16.71290758560476,42.96026221617264,0 16.71285470130154,42.96023471528305,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0DC5BDC07A3C6B9F634B">
+		<name>Berth 25</name>
+		<LookAt>
+			<longitude>16.71286430877844</longitude>
+			<latitude>42.96018243091419</latitude>
+			<altitude>0.6924634337874425</altitude>
+			<heading>-1.027629398943304e-06</heading>
+			<tilt>0.1050533171397945</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>56.97836166609704</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71277034017272,42.96019647547993,0 16.71285458773255,42.9601317423239,0 16.71290249721373,42.96016299422492,0 16.71282569127071,42.96022151438652,0 16.71277034017272,42.96019647547993,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="039F4D818C3C6BEFB374">
+		<name>Berth 26</name>
+		<LookAt>
+			<longitude>16.71280332226234</longitude>
+			<latitude>42.96008708075793</latitude>
+			<altitude>0.7255313239103423</altitude>
+			<heading>-1.032458612547463e-06</heading>
+			<tilt>0.1050536800903619</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>81.9828425850028</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71268408046193,42.96015069881473,0 16.71278832778508,42.96006385375009,0 16.71286330695849,42.9601103104558,0 16.71276070977712,42.96019403063914,0 16.71273165873469,42.96017602110307,0 16.71268408046193,42.96015069881473,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="048BAF53D43C6BEFF3B8">
+		<name>Berth 27</name>
+		<LookAt>
+			<longitude>16.71280332226234</longitude>
+			<latitude>42.96008708075793</latitude>
+			<altitude>0.7255313239103423</altitude>
+			<heading>-1.032456011068264e-06</heading>
+			<tilt>0.1050536800417914</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>81.9828425850028</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71260986834536,42.96010288513808,0 16.71273635678756,42.960005706522,0 16.71280482163097,42.96004849249083,0 16.7126743754631,42.96014308160068,0 16.71260986834536,42.96010288513808,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01D29956D73C6BF06564">
+		<name>Berth 28</name>
+		<LookAt>
+			<longitude>16.71274421294167</longitude>
+			<latitude>42.96004153473186</latitude>
+			<altitude>0.715173016529671</altitude>
+			<heading>-1.034581164811808e-06</heading>
+			<tilt>0.1050533960566791</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>65.07204889532659</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71252797204152,42.96005243592574,0 16.7126761540732,42.95993415776638,0 16.71271586047297,42.95996013371743,0 16.71275058449487,42.95998918220533,0 16.71260446275202,42.96009961187404,0 16.71252797204152,42.96005243592574,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06D721A1E93C6BF0F109">
+		<name>Berth 29</name>
+		<LookAt>
+			<longitude>16.71215202302122</longitude>
+			<latitude>42.96013758254661</latitude>
+			<altitude>-0.04715431379473056</altitude>
+			<heading>-1.035942116083348e-06</heading>
+			<tilt>0.1050581348259323</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>353.3161956644108</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71245982795752,42.96000955872806,0 16.71259914291291,42.95988897653696,0 16.71266659952657,42.95993221679751,0 16.71252485398139,42.96004963208757,0 16.71251625624033,42.9600465747077,0 16.71250805763561,42.96004091406899,0 16.71249098605199,42.96003055837832,0 16.71245982795752,42.96000955872806,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="050D0C00813C6BF1424B">
+		<name>Berth 30</name>
+		<LookAt>
+			<longitude>16.71240478158708</longitude>
+			<latitude>42.95986574414594</latitude>
+			<altitude>0.4513430763900539</altitude>
+			<heading>-1.046860781384776e-06</heading>
+			<tilt>0.1050531427536343</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>51.2358796487206</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71252254225354,42.95983592710082,0 16.71259726544805,42.95988183371243,0 16.7124447453429,42.96000140943367,0 16.71236520740467,42.95995386200821,0 16.71252254225354,42.95983592710082,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="04B53939F03C6BF1DDA1">
+		<name>Berth 31</name>
+		<LookAt>
+			<longitude>16.71207797320175</longitude>
+			<latitude>42.95975415079118</latitude>
+			<altitude>0.2619198196275363</altitude>
+			<heading>-9.999020705662473e-07</heading>
+			<tilt>0.1050541814199072</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>115.6832574749023</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71217956112452,42.9598159463339,0 16.71229153280989,42.95975032716723,0 16.71233087096312,42.95978323683488,0 16.71221717224558,42.95984955177011,0 16.71220228004814,42.95983708934172,0 16.71217956112452,42.9598159463339,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0687D75D3F3C6BF22860">
+		<name>Berth 32</name>
+		<LookAt>
+			<longitude>16.71205149330449</longitude>
+			<latitude>42.95975639427545</latitude>
+			<altitude>0.2619156732930805</altitude>
+			<heading>-9.913630098960282e-07</heading>
+			<tilt>0.1050532872723038</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>61.70585604671034</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFDA83ACF3C6B9C60DC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71211682817894,42.95976571416966,0 16.71226830571424,42.95967586224689,0 16.712319483688,42.95972594814108,0 16.71217151828608,42.95981280005522,0 16.71211682817894,42.95976571416966,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B416989923C6BF27DAB">
+		<name>Berth 33</name>
+		<LookAt>
+			<longitude>16.71213678440745</longitude>
+			<latitude>42.95972424183163</latitude>
+			<altitude>0.33418433913041</altitude>
+			<heading>-9.884138631761188e-07</heading>
+			<tilt>0.1050527567959442</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.98311907458174</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71211563194287,42.95976594544192,0 16.7120700978139,42.9597293505838,0 16.71222097334521,42.9596301558751,0 16.71226809770025,42.9596755714871,0 16.71211563194287,42.95976594544192,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E5524F89E3C6BF35C53">
+		<name>Berth 34</name>
+		<LookAt>
+			<longitude>16.71239371278834</longitude>
+			<latitude>42.95954479076814</latitude>
+			<altitude>0.944762105168242</altitude>
+			<heading>-9.746126541316845e-07</heading>
+			<tilt>0.1050531447034025</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>55.47701528436846</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71236956845219,42.95951572220606,0 16.71242621178543,42.95947659088995,0 16.71248519482111,42.95943222420828,0 16.71252435947267,42.95946358503933,0 16.71241115427872,42.95954495232907,0 16.71236956845219,42.95951572220606,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B3ACD70D73C6BF42FC8">
+		<name>Berth 35</name>
+		<LookAt>
+			<longitude>16.71293139812977</longitude>
+			<latitude>42.96025404077017</latitude>
+			<altitude>0.6592497570738431</altitude>
+			<heading>-9.714044565627407e-07</heading>
+			<tilt>0.1050527615836489</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.70301078102784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71291217400314,42.96026351565673,0 16.71295509026529,42.96022926627627,0 16.71306545655643,42.96029080481206,0 16.71303018627286,42.96032207526351,0 16.71291217400314,42.96026351565673,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="034345C8843C6BF4BD00">
+		<name>Berth 36</name>
+		<LookAt>
+			<longitude>16.71308875979967</longitude>
+			<latitude>42.9600166924516</latitude>
+			<altitude>1.608546944907048</altitude>
+			<heading>-9.763957681745017e-07</heading>
+			<tilt>0.1050561444657751</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>240.0165572740662</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71325790812439,42.96007559693911,0 16.71329963890886,42.96011497655884,0 16.71322212466728,42.96016540082932,0 16.71317469103446,42.96013048957918,0 16.71321913653871,42.96010260436191,0 16.71325790812439,42.96007559693911,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0558ABDA863C6BF4FC04">
+		<name>Berth 37</name>
+		<LookAt>
+			<longitude>16.71250412773053</longitude>
+			<latitude>42.96029572694377</latitude>
+			<altitude>0.2332963388658538</altitude>
+			<heading>-9.702041116456206e-07</heading>
+			<tilt>0.1050536952547623</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>91.86931712471051</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71251534848084,42.96041295019366,0 16.71237005884622,42.96034889179114,0 16.71242447456729,42.96029018729932,0 16.71257420223637,42.96035706176215,0 16.71251534848084,42.96041295019366,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="016DD024323C6BF53A00">
+		<name>Berth 38</name>
+		<LookAt>
+			<longitude>16.7125862089933</longitude>
+			<latitude>42.96031697139119</latitude>
+			<altitude>0.258807395100229</altitude>
+			<heading>-9.692069067732869e-07</heading>
+			<tilt>0.1050530128233538</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>50.67658099857</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71257949527372,42.96034984315609,0 16.71242893617393,42.96028485084091,0 16.71248026624514,42.96022409029504,0 16.71263460542388,42.96029080796347,0 16.71257949527372,42.96034984315609,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="023550D1B33C6BF58298">
+		<name>Berth 39</name>
+		<LookAt>
+			<longitude>16.7127045940496</longitude>
+			<latitude>42.96032827469091</latitude>
+			<altitude>0.3707183583196749</altitude>
+			<heading>-9.821335678671798e-07</heading>
+			<tilt>0.1050549728901324</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>169.8304753792036</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71263383023047,42.96028334781195,0 16.7124848753711,42.96021985531406,0 16.7125665954816,42.96013006462126,0 16.71270738748278,42.96021019763968,0 16.71263383023047,42.96028334781195,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
