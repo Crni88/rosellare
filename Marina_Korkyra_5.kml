@@ -1224,5 +1224,465 @@
 			</outerBoundaryIs>
 		</Polygon>
 	</Placemark>
+	<Placemark id="06BD2FF6013C6C81E541">
+		<name>Berth 40</name>
+		<LookAt>
+			<longitude>16.7124839366067</longitude>
+			<latitude>42.959431245244</latitude>
+			<altitude>1.435837467554333</altitude>
+			<heading>-9.565714517616558e-07</heading>
+			<tilt>0.105053881973418</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>106.8877293594596</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71239231270869,42.9593606485005,0 16.71244085116798,42.95939776079158,0 16.71238285197423,42.95943440197411,0 16.71231775487936,42.95947671128401,0 16.71226515795393,42.95944104896299,0 16.71239231270869,42.9593606485005,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="00D939F4473C6C82623C">
+		<name>Berth 41</name>
+		<LookAt>
+			<longitude>16.71215707773281</longitude>
+			<latitude>42.95961446956112</latitude>
+			<altitude>0.5070743100576314</altitude>
+			<heading>-9.543030947182229e-07</heading>
+			<tilt>0.1050531503792402</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>62.99681935905028</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71196255330641,42.95963242652366,0 16.71208647466494,42.95955710393041,0 16.71213144862268,42.95959450657377,0 16.71200450771249,42.95967322440757,0 16.71196255330641,42.95963242652366,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C3BE4F8393C6C82BAB7">
+		<name>Berth 42</name>
+		<LookAt>
+			<longitude>16.71211702423379</longitude>
+			<latitude>42.95961258930832</latitude>
+			<altitude>0.4744177855425091</altitude>
+			<heading>-9.488403987332347e-07</heading>
+			<tilt>0.1050528869624569</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>47.12231351994888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71195810981391,42.95963239274906,0 16.71190928612054,42.95959555355866,0 16.71203669616146,42.95951184627837,0 16.71208420532245,42.95955505986498,0 16.71195810981391,42.95963239274906,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0964E707933C6C832B68">
+		<name>Berth 43</name>
+		<LookAt>
+			<longitude>16.71218430957887</longitude>
+			<latitude>42.96002303556651</latitude>
+			<altitude>-0.04713721918348401</altitude>
+			<heading>-9.505901728769856e-07</heading>
+			<tilt>0.1050529434815745</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>51.31855414563688</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71228414649996,42.95994495696427,0 16.7123592587574,42.95998972898239,0 16.71220760162922,42.96007426103636,0 16.71213567868774,42.96002851660357,0 16.71228414649996,42.95994495696427,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="09F81AAD653C6C83AEBB">
+		<name>Berth 44</name>
+		<LookAt>
+			<longitude>16.71212419267417</longitude>
+			<latitude>42.96010558591954</latitude>
+			<altitude>-0.04715407471915123</altitude>
+			<heading>-9.413591178961864e-07</heading>
+			<tilt>0.1050531364810699</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>63.18388576348298</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71212900827609,42.96003139990933,0 16.7121968234824,42.96008075922258,0 16.71204807472613,42.96015920243114,0 16.71198681671796,42.96011038237001,0 16.71212900827609,42.96003139990933,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="076F6960673C6C841DFE">
+		<name>Berth 45</name>
+		<LookAt>
+			<longitude>16.71198532291368</longitude>
+			<latitude>42.96016347940029</latitude>
+			<altitude>-0.0471497048702485</altitude>
+			<heading>-9.163761680953241e-07</heading>
+			<tilt>0.1050528658202538</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>46.92741308693257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71198303446933,42.96011271442296,0 16.71204356341926,42.96016117432775,0 16.71189729062325,42.96023307139577,0 16.71185054888423,42.96018787540664,0 16.71198303446933,42.96011271442296,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="083172CD0D3C6C848A34">
+		<name>Berth 46</name>
+		<LookAt>
+			<longitude>16.71191862718149</longitude>
+			<latitude>42.96005053500552</latitude>
+			<altitude>-0.04712643461141863</altitude>
+			<heading>-8.942316855636111e-07</heading>
+			<tilt>0.1050529249344535</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>51.53966264912926</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71192098501706,42.9600961123163,0 16.71185120686674,42.96004132943686,0 16.71198629691477,42.95996188068612,0 16.71205404858088,42.96002528272088,0 16.71192098501706,42.9600961123163,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="08900B14D03C6C85064B">
+		<name>Berth 47</name>
+		<LookAt>
+			<longitude>16.7118575446967</longitude>
+			<latitude>42.9601380308325</latitude>
+			<altitude>-0.04713931003381688</altitude>
+			<heading>-8.801253213294782e-07</heading>
+			<tilt>0.1050545818462468</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>152.68318905446</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71175552637716,42.9601876870564,0 16.71169077511465,42.9601412130885,0 16.71184562327916,42.96004359615709,0 16.71191552472526,42.9601004019094,0 16.71183469599401,42.96014326072969,0 16.71175552637716,42.9601876870564,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E17481A213C6C858D63">
+		<name>Berth 48</name>
+		<LookAt>
+			<longitude>16.71271088118713</longitude>
+			<latitude>42.96015837531563</latitude>
+			<altitude>0.555977724839789</altitude>
+			<heading>-0.09993531794470134</heading>
+			<tilt>0.1050597070124902</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>464.1277187634842</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71154205217121,42.96030533256292,0 16.71146752689216,42.9602645792539,0 16.71168607395787,42.96014415762041,0 16.71175003935367,42.96019008139004,0 16.71154205217121,42.96030533256292,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0CE7A9360B3C6C860648">
+		<name>Berth 49</name>
+		<LookAt>
+			<longitude>16.71268425735179</longitude>
+			<latitude>42.96037617309341</latitude>
+			<altitude>0.2619402966631035</altitude>
+			<heading>-0.09993531578328717</heading>
+			<tilt>0.1050531360300558</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>66.2965910023013</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71262523638348,42.96036322829877,0 16.71277074985155,42.96042850027348,0 16.71271377907448,42.96048928383323,0 16.71256699684547,42.96042875957892,0 16.71262523638348,42.96036322829877,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0A7432245B3C6C864554">
+		<name>Berth 50</name>
+		<LookAt>
+			<longitude>16.71258453572693</longitude>
+			<latitude>42.96047114889631</latitude>
+			<altitude>0.1073882261910564</altitude>
+			<heading>-0.09993531733070528</heading>
+			<tilt>0.1050531361965841</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>66.45114502923207</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71255784385394,42.96043601254747,0 16.71270639684691,42.960496984264,0 16.71265846272627,42.9605529817042,0 16.71251150749865,42.9604943630559,0 16.71255784385394,42.96043601254747,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06FFB023383C6C86881C">
+		<name>Berth 51</name>
+		<LookAt>
+			<longitude>16.71226378004949</longitude>
+			<latitude>42.95982069314887</latitude>
+			<altitude>0.2344472105092588</altitude>
+			<heading>-0.09993530629697989</heading>
+			<tilt>0.105053406787317</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>83.36806919393894</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71223011931837,42.95985954752965,0 16.71235203503281,42.95978797999995,0 16.71240305140332,42.95982846492915,0 16.71227834884488,42.95989796481961,0 16.71223011931837,42.95985954752965,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C40AC87853C6C86BCB6">
+		<name>Berth 52</name>
+		<LookAt>
+			<longitude>16.7123749647497</longitude>
+			<latitude>42.95983220943663</latitude>
+			<altitude>0.4602975036759105</altitude>
+			<heading>-0.0999353171462725</heading>
+			<tilt>0.1050530349473511</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>60.87264452732597</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71229572686125,42.95990866210355,0 16.71244390821989,42.95980776670076,0 16.71250323415959,42.95984603423339,0 16.71236349979527,42.95995019328963,0 16.71229572686125,42.95990866210355,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F8A8F2EC43C6C876330">
+		<name>Berth 53</name>
+		<LookAt>
+			<longitude>16.71122409624612</longitude>
+			<latitude>42.95982715143801</latitude>
+			<altitude>-0.04714300438810937</altitude>
+			<heading>-0.09993530410036404</heading>
+			<tilt>0.1050540253149747</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>122.2286231229009</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71098488156994,42.9598296319717,0 16.71105984599544,42.95979135848279,0 16.71124498453526,42.95994419391837,0 16.71117272496324,42.95998217673427,0 16.71098488156994,42.9598296319717,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="07F8B78CEB3C6C87B696">
+		<name>Berth 54</name>
+		<LookAt>
+			<longitude>16.71137716757548</longitude>
+			<latitude>42.95980186325724</latitude>
+			<altitude>-0.04715648810931894</altitude>
+			<heading>-0.09993532723725952</heading>
+			<tilt>0.1050531195160017</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>67.53820920560429</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71106778868871,42.95978633504645,0 16.7111628604431,42.95973599532749,0 16.71134880102705,42.95989562579064,0 16.71125694921911,42.95994199518083,0 16.71106778868871,42.95978633504645,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0EF55DDAB93C6C883238">
+		<name>Berth 55</name>
+		<LookAt>
+			<longitude>16.71152083508525</longitude>
+			<latitude>42.95978681688187</latitude>
+			<altitude>-0.04715000619035736</altitude>
+			<heading>-0.2998040749477927</heading>
+			<tilt>0.1050535902626678</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>96.22542524198252</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71116752732226,42.95972881657067,0 16.71124314128653,42.95968737364525,0 16.71143719763552,42.95986083717403,0 16.71136304463724,42.95989452030231,0 16.71116752732226,42.95972881657067,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0EFD2229E73C6C88A4AC">
+		<name>Berth 56</name>
+		<LookAt>
+			<longitude>16.71155335034487</longitude>
+			<latitude>42.95974220059254</latitude>
+			<altitude>-0.04714212872075074</altitude>
+			<heading>-0.2998040818289839</heading>
+			<tilt>0.1050533894545435</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>84.44246101786121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71125483223492,42.95968212705203,0 16.71132988504544,42.95963950147524,0 16.71152245742509,42.95982137237646,0 16.71144698918155,42.95985642945647,0 16.71125483223492,42.95968212705203,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0EE29768553C6C892714">
+		<name>Berth 57</name>
+		<LookAt>
+			<longitude>16.71139948916671</longitude>
+			<latitude>42.95986936968737</latitude>
+			<altitude>-0.04715292107338231</altitude>
+			<heading>-0.2998041021407694</heading>
+			<tilt>0.1050533050005982</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>80.08477682383273</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71133838305874,42.95963496583631,0 16.7114163522268,42.95959459557348,0 16.71160598973084,42.95978370732816,0 16.71153084328823,42.95981710670456,0 16.71133838305874,42.95963496583631,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="044DC0179B3C6C8AD730">
+		<name>Berth 58</name>
+		<LookAt>
+			<longitude>16.7112227930169</longitude>
+			<latitude>42.95970511386997</latitude>
+			<altitude>-0.04709628774672403</altitude>
+			<heading>-0.3309121502116473</heading>
+			<tilt>0.2884494342885667</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>368.0639167162371</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71142662425849,42.95959063083301,0 16.71153058082736,42.95953515588573,0 16.7117236307618,42.9597324175795,0 16.71161459158039,42.95977861481038,0 16.71142662425849,42.95959063083301,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="058B39CCBE3C6C8B586B">
+		<name>Berth 59</name>
+		<LookAt>
+			<longitude>16.71088344552641</longitude>
+			<latitude>42.96040226888046</latitude>
+			<altitude>-0.04713406168825873</altitude>
+			<heading>-0.3309121366048833</heading>
+			<tilt>0.2884439323326203</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>246.7080692748277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_069D80F5663C6BF29ABE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						16.71138330700456,42.96070337630552,0 16.71119579882566,42.96061652345559,0 16.71125011748035,42.9605543021254,0 16.71144231478942,42.96064492908373,0 16.71138330700456,42.96070337630552,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
 </Document>
 </kml>
