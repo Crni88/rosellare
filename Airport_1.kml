@@ -2,6 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="19mXl3V39BQfNbFshIh-sjYkttTygrEio">
 	<name>Schiphol Airport</name>
+	<StyleMap id="__managed_style_0622FA7E653F27ED762E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C13417CAC3F27ED762E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23DA8E80573F27ED762E</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="__managed_style_0C6BDE5B4E3F27857BF4">
 		<Pair>
 			<key>normal</key>
@@ -47,6 +57,28 @@
 			<LineStyle>
 				<color>ff9f3f30</color>
 				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40c06b5c</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_23DA8E80573F27ED762E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffbc47ab</color>
+				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40c06b5c</color>
@@ -143,6 +175,27 @@
 			<LineStyle>
 				<color>ff9f3f30</color>
 				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40c06b5c</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C13417CAC3F27ED762E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffbc47ab</color>
+				<width>2.66667</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40c06b5c</color>
@@ -446,6 +499,52 @@
 				<LinearRing>
 					<coordinates>
 						4.760392670916451,52.32023485156467,0 4.760464722171173,52.32012724671253,0 4.762322601071758,52.31914521340494,0 4.764443732210111,52.31920871434618,0 4.768874987754213,52.31936817672987,0 4.770940557607792,52.31943631039476,0 4.771833382404386,52.3195840257208,0 4.772292807377212,52.31974836034629,0 4.772627375207252,52.31992384781898,0 4.773157634441514,52.32035304962253,0 4.774130214824284,52.3211713673648,0 4.774424446554084,52.32149529768402,0 4.774322179265786,52.32176647304028,0 4.774520115335362,52.32184378750106,0 4.77451755998457,52.32175405553015,0 4.774670302147587,52.32175375019327,0 4.775002773929693,52.32208480280094,0 4.774946769528197,52.32213952632213,0 4.77482367084461,52.32212011804431,0 4.774806399048797,52.32220975819504,0 4.775224667423192,52.32225881996924,0 4.775668950478858,52.32262277562242,0 4.776290905896325,52.32323244659396,0 4.7766256953313,52.32431662727184,0 4.773516703806835,52.32380368115879,0 4.76992265352431,52.32333490065622,0 4.770632678881319,52.32211671474991,0 4.770516130264042,52.32202075455562,0 4.769861692245785,52.3231370129709,0 4.768711042609812,52.32288857314264,0 4.768740825014435,52.32284995433917,0 4.768594066174254,52.32282918476302,0 4.768541977252978,52.32291393507872,0 4.767280040510276,52.32263492971618,0 4.768159133258891,52.32151195347779,0 4.767859118766342,52.32143413147651,0 4.767705613253361,52.32128866328408,0 4.767192871642112,52.32119997231987,0 4.767075173458553,52.32126968601476,0 4.767025256403763,52.32139039314493,0 4.767053097999132,52.32144702734724,0 4.766875077626049,52.32163446797158,0 4.766826281079606,52.32180280078289,0 4.766927384555897,52.32190814291398,0 4.766864300940226,52.32212147359841,0 4.76680322528839,52.32214862126347,0 4.766588019391607,52.32263533772296,0 4.763361394929131,52.32191879864219,0 4.763203935151314,52.32180028214154,0 4.763292460730961,52.32157307548037,0 4.762066648279277,52.32133654735945,0 4.760406310849574,52.32033588234779,0 4.760392670916451,52.32023485156467,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B81F54BD33F27ED4654">
+		<name>Employee Parking</name>
+		<LookAt>
+			<longitude>4.770761813148439</longitude>
+			<latitude>52.29046612579453</latitude>
+			<altitude>22.3200251433785</altitude>
+			<heading>13.81217166691138</heading>
+			<tilt>8.530680699591581</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1645.117633174814</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0622FA7E653F27ED762E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						4.766768817208944,52.28912486919211,0 4.76682957435338,52.28913920802808,0 4.766944927655929,52.28904000984758,0 4.767074454248501,52.28909229821687,0 4.767336201453512,52.28884683240251,0 4.769902007482074,52.29058451435695,0 4.769683389515384,52.29079327657921,0 4.766344711051151,52.28952810331687,0 4.766768817208944,52.28912486919211,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0FA7C13B5D3F28039B50">
+		<name>Employee Parking 2</name>
+		<LookAt>
+			<longitude>4.751527675232379</longitude>
+			<latitude>52.32845035647271</latitude>
+			<altitude>-4.374131118408348</altitude>
+			<heading>13.78793545598024</heading>
+			<tilt>8.529432453873431</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>709.1859601606849</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0622FA7E653F27ED762E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						4.747396360390372,52.32939147709328,0 4.751630890586263,52.3271902717352,0 4.753346498375874,52.3283466662515,0 4.74904527580782,52.3306590032227,0 4.747396360390372,52.32939147709328,0 
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
