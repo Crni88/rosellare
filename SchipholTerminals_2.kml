@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Schiphol Operational Layout</name>
+    
+    <Style id="style-red">
+        <LineStyle><color>ff0000ff</color><width>1</width></LineStyle>
+        <PolyStyle><color>b30000ff</color></PolyStyle>
+    </Style>
+
+    <Style id="style-green">
+        <LineStyle><color>ff008000</color><width>1</width></LineStyle>
+        <PolyStyle><color>b3008000</color></PolyStyle>
+    </Style>
+
+    <Style id="style-blue">
+        <LineStyle><color>ffff0000</color><width>1</width></LineStyle>
+        <PolyStyle><color>b3ff0000</color></PolyStyle>
+    </Style>
+
+    <Style id="style-orange">
+        <LineStyle><color>ff00a5ff</color><width>1</width></LineStyle>
+        <PolyStyle><color>b300a5ff</color></PolyStyle>
+    </Style>
+
+    <Style id="style-gold">
+        <LineStyle><color>ff808080</color><width>1</width></LineStyle>
+        <PolyStyle><color>b3808080</color></PolyStyle>
+    </Style>
+    
+    <Style id="style-beige">
+        <LineStyle><color>ffa0c7d8</color><width>1</width></LineStyle>
+        <PolyStyle><color>b37d756c</color></PolyStyle>
+    </Style>
+
+    <!-- RUNWAYS -->
+    <Placemark>
+        <name>Runway 1</name>
+        <styleUrl>#style-gold</styleUrl>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>4.73382181,52.28825002,0 4.73443093,52.28759953,0 4.75710281,52.29635951,0 4.77791508,52.30426747,0 4.77729364,52.30489145,0 4.73382181,52.28825002,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+
+    <!-- GATES -->
+    <Placemark>
+        <name>E-Gates</name>
+        <styleUrl>#style-green</styleUrl>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>4.76488229,52.31038055,0 4.7650905,52.31031407,0 4.76665661,52.31180659,0 4.76710224,52.31179941,0 4.76825171,52.31287917,0 4.76820174,52.31295437,0 4.76824701,52.31299391,0 4.76934011,52.31404361,0 4.76886434,52.31422978,0 4.76774294,52.31311678,0 4.76758054,52.31311376,0 4.76642258,52.31206171,0 4.76651033,52.31193613,0 4.76487366,52.31038839,0 4.76488229,52.31038055,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+
+    <!-- TERMINALS & LOUNGES -->
+    <Placemark>
+        <name>Lounge 1</name>
+        <styleUrl>#style-blue</styleUrl>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>4.76482154,52.30808973,0 4.76461147,52.30711768,0 4.76491937,52.30683585,0 4.76501104,52.30686607,0 4.76534221,52.30717135,0 4.7656147,52.3080437,0 4.76482154,52.30808973,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>Departure Hall 3</name>
+        <styleUrl>#style-orange</styleUrl>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>4.75937126,52.31044884,0 4.75943311,52.31005941,0 4.76264439,52.31017037,0 4.76260976,52.31059033,0 4.75937126,52.31044884,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+
+    <Placemark>
+        <name>Terminal Administrative Zone</name>
+        <styleUrl>#style-beige</styleUrl>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>4.76139927,52.30627501,0 4.76167233,52.30602837,0 4.76319971,52.30662501,0 4.76304334,52.30676967,0 4.76294085,52.30686779,0 4.76139927,52.30627501,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+
+</Document>
+</kml>
