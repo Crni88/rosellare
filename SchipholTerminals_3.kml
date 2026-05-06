@@ -1,41 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-    <name>Schiphol Dashboard Overlay</name>
+    <name>Schiphol Full Operational Overlay</name>
     
-    <!-- STYLES FROM MARINA_KORKYRA_8.KML -->
+    <!-- STYLE DEFINITIONS FROM MARINA_KORKYRA_8.KML -->
     <Style id="style-red">
         <LineStyle><color>ff0000ff</color><width>1</width></LineStyle>
         <PolyStyle><color>b30000ff</color></PolyStyle>
     </Style>
-
     <Style id="style-green">
         <LineStyle><color>ff008000</color><width>1</width></LineStyle>
         <PolyStyle><color>b3008000</color></PolyStyle>
     </Style>
-
     <Style id="style-blue">
         <LineStyle><color>ffff0000</color><width>1</width></LineStyle>
         <PolyStyle><color>b3ff0000</color></PolyStyle>
     </Style>
-
     <Style id="style-orange">
         <LineStyle><color>ff00a5ff</color><width>1</width></LineStyle>
         <PolyStyle><color>b300a5ff</color></PolyStyle>
     </Style>
-
     <Style id="style-gold">
         <LineStyle><color>ff808080</color><width>1</width></LineStyle>
         <PolyStyle><color>b3808080</color></PolyStyle>
     </Style>
-    
     <Style id="style-beige">
         <LineStyle><color>ffa0c7d8</color><width>1</width></LineStyle>
         <PolyStyle><color>b37d756c</color></PolyStyle>
     </Style>
 
-    <!-- PLACEMARKS FROM SCHIPHOL TERMINALS.KML -->
-    
     <!-- RUNWAYS (Style: Gold/Gray) -->
     <Placemark><name>Runway 1</name><styleUrl>#style-gold</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.73382181,52.28825002,0 4.73443093,52.28759953,0 4.75710281,52.29635951,0 4.77791508,52.30426747,0 4.77729364,52.30489145,0 4.73382181,52.28825002,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
     <Placemark><name>Runway 2</name><styleUrl>#style-gold</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.77696036,52.29055743,0 4.77766292,52.29054513,0 4.77781179,52.29080277,0 4.77799486,52.29132805,0 4.78073551,52.32145409,0 4.77958476,52.32149971,0 4.77696036,52.29055743,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
@@ -45,17 +38,20 @@
 
     <!-- GATES (Style: Green) -->
     <Placemark><name>E-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76488229,52.31038055,0 4.7650905,52.31031407,0 4.76665661,52.31180659,0 4.76710224,52.31179941,0 4.76825171,52.31287917,0 4.76820174,52.31295437,0 4.76824701,52.31299391,0 4.76934011,52.31404361,0 4.76886434,52.31422978,0 4.76774294,52.31311678,0 4.76758054,52.31311376,0 4.76642258,52.31206171,0 4.76651033,52.31193613,0 4.76487366,52.31038839,0 4.76488229,52.31038055,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
-    <Placemark><name>D-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76572826,52.30845549,0 4.76876349,52.30834493,0 4.76973798,52.30739852,0 4.76991486,52.30745556,0 4.77372856,52.30731044,0 4.77375766,52.3075291,0 4.76999306,52.3076587,0 4.77019582,52.309406,0 4.77398972,52.30927033,0 4.77400638,52.30956168,0 4.77004168,52.30974821,0 4.76572826,52.30845549,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
-    <Placemark><name>C-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76448916,52.30717336,0 4.76446375,52.30702699,0 4.76487552,52.30664381,0 4.76598447,52.30556469,0 4.76632715,52.30468333,0 4.76742019,52.30524185,0 4.76620082,52.30564032,0 4.76448916,52.30717336,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
-    <Placemark><name>B-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76103379,52.3056569,0 4.76077285,52.3055609,0 4.76098082,52.30536444,0 4.7634442,52.30295584,0 4.76381262,52.30309021,0 4.76189366,52.30583997,0 4.76103379,52.3056569,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>D-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76572826,52.30845549,0 4.76876349,52.30834493,0 4.76973798,52.30739852,0 4.76991486,52.30745556,0 4.77372856,52.30731044,0 4.77375766,52.3075291,0 4.76999306,52.3076587,0 4.76910991,52.30837569,0 4.76933311,52.30836553,0 4.76935067,52.30871076,0 4.76936336,52.30875737,0 4.76926487,52.30879419,0 4.7696851,52.30909708,0 4.76980089,52.30908975,0 4.77019582,52.309406,0 4.77398972,52.30927033,0 4.77400638,52.30956168,0 4.77088608,52.30966498,0 4.77026399,52.30969645,0 4.77017987,52.3096844,0 4.77004168,52.30974821,0 4.76883361,52.30878096,0 4.7657288,52.30888357,0 4.76576812,52.30872981,0 4.76572826,52.30845549,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>C-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76448916,52.30717336,0 4.76446375,52.30702699,0 4.76487552,52.30664381,0 4.76524517,52.30627512,0 4.76598447,52.30556469,0 4.76616565,52.30498849,0 4.76605591,52.30472118,0 4.76632715,52.30468333,0 4.76645087,52.30498962,0 4.76674303,52.30501435,0 4.76689227,52.30515236,0 4.76736508,52.30509384,0 4.76742019,52.30524185,0 4.76701757,52.30530216,0 4.76620082,52.30564032,0 4.76497354,52.30686654,0 4.76492828,52.30685327,0 4.7646342,52.3071559,0 4.76465175,52.30722444,0 4.76448438,52.30723234,0 4.76448916,52.30717336,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>B-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76103379,52.3056569,0 4.76077285,52.3055609,0 4.76098082,52.30536444,0 4.76107211,52.30540329,0 4.761252,52.30523219,0 4.7611501,52.30519168,0 4.7634442,52.30295584,0 4.76381262,52.30309021,0 4.76151391,52.3053279,0 4.76142756,52.30529685,0 4.76141162,52.3053102,0 4.76114939,52.3055648,0 4.76189366,52.30583997,0 4.76180054,52.30593495,0 4.76103379,52.3056569,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>F-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76219852,52.31109373,0 4.76210932,52.31241755,0 4.76235837,52.31300328,0 4.76290568,52.31334356,0 4.76279157,52.31340863,0 4.76258918,52.31327517,0 4.76236721,52.31339622,0 4.76201832,52.31314519,0 4.7621382,52.31343469,0 4.76198644,52.31346636,0 4.76187921,52.31315787,0 4.76181243,52.31317955,0 4.76162817,52.31312546,0 4.76122015,52.31335536,0 4.76091597,52.31315869,0 4.7612946,52.31294648,0 4.76168576,52.31235974,0 4.76176087,52.31144684,0 4.76186671,52.31083885,0 4.76255733,52.31085836,0 4.76244828,52.31106619,0 4.76219852,52.31109373,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>G-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.75660901,52.31390595,0 4.7567576,52.31217425,0 4.75687388,52.31093403,0 4.7574491,52.31096418,0 4.75740572,52.3113312,0 4.7571839,52.31392312,0 4.75660901,52.31390595,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>H-Gates</name><styleUrl>#style-green</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.75280363,52.30913604,0 4.75688394,52.31072073,0 4.75936277,52.31080429,0 4.75934981,52.31091189,0 4.7568657,52.31085026,0 4.75643482,52.31067791,0 4.75629005,52.31082163,0 4.75590871,52.31055261,0 4.75564875,52.31038066,0 4.75511448,52.310176,0 4.75280363,52.30913604,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 
     <!-- LOUNGES (Style: Blue) -->
-    <Placemark><name>Lounge 1</name><styleUrl>#style-blue</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76482154,52.30808973,0 4.76461147,52.30711768,0 4.76491937,52.30683585,0 4.76501104,52.30686607,0 4.76547646,52.30750126,0 4.7656147,52.3080437,0 4.76482154,52.30808973,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>Lounge 1</name><styleUrl>#style-blue</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76482154,52.30808973,0 4.76461147,52.30711768,0 4.76491937,52.30683585,0 4.76501104,52.30686607,0 4.76534221,52.30717135,0 4.7656147,52.3080437,0 4.76482154,52.30808973,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
     <Placemark><name>Lounge 3/4</name><styleUrl>#style-blue</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.75927702,52.31138956,0 4.75937917,52.31046197,0 4.76256452,52.31056842,0 4.76351229,52.31093667,0 4.76221656,52.31146897,0 4.75927702,52.31138956,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 
     <!-- DEPARTURES (Style: Orange) -->
-    <Placemark><name>Departures 1</name><styleUrl>#style-orange</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76523678,52.31002753,0 4.76367495,52.31008401,0 4.76348139,52.30801598,0 4.76392884,52.30797717,0 4.76523678,52.31002753,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
-    <Placemark><name>Departures 3</name><styleUrl>#style-orange</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.75937126,52.31044884,0 4.75943311,52.31005941,0 4.76264439,52.31017037,0 4.76260976,52.31059033,0 4.75937126,52.31044884,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>Departues 1</name><styleUrl>#style-orange</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76523678,52.31002753,0 4.76367495,52.31008401,0 4.76348139,52.30801598,0 4.76392884,52.30797717,0 4.76523678,52.31002753,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>Departues 3</name><styleUrl>#style-orange</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.75937126,52.31044884,0 4.75943311,52.31005941,0 4.76264439,52.31017037,0 4.76260976,52.31059033,0 4.75937126,52.31044884,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 
     <!-- ADMINISTRATIVE / SPECIAL AREAS (Style: Beige) -->
     <Placemark><name>Departure 1A</name><styleUrl>#style-beige</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>4.76139927,52.30627501,0 4.76167233,52.30602837,0 4.76319971,52.30662501,0 4.7636074,52.30735078,0 4.76139927,52.30627501,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
