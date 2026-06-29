@@ -3,20 +3,33 @@
   <Document>
     <name>Tuzla Urban Center</name>
 
-    <!-- 1) Polygon with inline style: fill OFF -->
-    <Placemark>
-      <name>TuzlaUrbanCenter (Polygon)</name>
-      <Style>
-        <LineStyle>
-          <color>ff2dc0fb</color>
-          <width>5.33333</width>
-        </LineStyle>
-        <PolyStyle>
-          <fill>0</fill>
-          <outline>1</outline>
-        </PolyStyle>
-      </Style>
-      <Polygon>
+    <Style id="tuzla-urban-poly">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>5.33333</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>402dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+
+    <Style id="tuzla-urban-line">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>5.33333</width>
+      </LineStyle>
+    </Style>
+
+    <Folder>
+      <name>Tuzla Urban Center</name>
+
+      <!-- 1) Polygon using shared style: fill ON -->
+      <Placemark>
+        <name>TuzlaUrbanCenter (Polygon)</name>
+        <styleUrl>#tuzla-urban-poly</styleUrl>
+        <Polygon>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>
@@ -25,24 +38,20 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-    </Placemark>
+      </Placemark>
 
-    <!-- 2) Same boundary as a LineString (path), always unfilled -->
-    <Placemark>
+      <!-- 2) Same boundary as a LineString (path), always unfilled -->
+      <Placemark>
       <name>TuzlaUrbanCenter (Path)</name>
-      <Style>
-        <LineStyle>
-          <color>ff2dc0fb</color>
-          <width>5.33333</width>
-        </LineStyle>
-      </Style>
+      <styleUrl>#tuzla-urban-line</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
           18.665000,44.544000,0 18.672000,44.546500,0 18.680000,44.547000,0 18.688000,44.545500,0 18.694000,44.542500,0 18.697000,44.538000,0 18.696000,44.533500,0 18.690000,44.530000,0 18.682000,44.528500,0 18.674000,44.528500,0 18.667000,44.530500,0 18.662000,44.534500,0 18.661500,44.539500,0 18.665000,44.544000,0
         </coordinates>
       </LineString>
-    </Placemark>
+      </Placemark>
 
+    </Folder>
   </Document>
 </kml>
