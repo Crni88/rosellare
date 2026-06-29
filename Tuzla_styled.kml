@@ -2,12 +2,13 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="document">
 	<name>Tuzla</name>
-	<Style id="__managed_style_0D4F0C06364048CF2E03">
+	<Style id="tuzla-border-style">
 		<LineStyle>
 			<color>ff2dc0fb</color>
 			<width>8</width>
 		</LineStyle>
 		<PolyStyle>
+			<color>002dc0fb</color>
 			<fill>0</fill>
 			<outline>1</outline>
 		</PolyStyle>
@@ -24,7 +25,7 @@
 			<range>20171.6597854835</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0D4F0C06364048CF2E03</styleUrl>
+		<styleUrl>#tuzla-border-style</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
