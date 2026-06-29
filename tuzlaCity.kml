@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="[http://www.opengis.net/kml/2.2](http://www.opengis.net/kml/2.2)">
+  <Document>
+    <name>Tuzla Urban Center</name>
+
+    <Placemark>
+      <name>TuzlaBorders (Polygon)</name>
+      <Style>
+        <LineStyle>
+          <color>ff2dc0fb</color>
+          <width>5.33333</width>
+        </LineStyle>
+        <PolyStyle>
+          <fill>0</fill>
+          <outline>1</outline>
+        </PolyStyle>
+      </Style>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              18.648200,44.532500,0 18.652100,44.536300,0 18.660100,44.540100,0 18.668500,44.541500,0 18.675000,44.542000,0 18.682300,44.541000,0 18.692000,44.539000,0 18.700100,44.537200,0 18.705000,44.535000,0 18.702000,44.531000,0 18.695000,44.528000,0 18.685000,44.528500,0 18.673000,44.529000,0 18.662000,44.528200,0 18.655000,44.528500,0 18.650000,44.530500,0 18.648200,44.532500,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>TuzlaBorders (Path)</name>
+      <Style>
+        <LineStyle>
+          <color>ff2dc0fb</color>
+          <width>5.33333</width>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          18.648200,44.532500,0 18.652100,44.536300,0 18.660100,44.540100,0 18.668500,44.541500,0 18.675000,44.542000,0 18.682300,44.541000,0 18.692000,44.539000,0 18.700100,44.537200,0 18.705000,44.535000,0 18.702000,44.531000,0 18.695000,44.528000,0 18.685000,44.528500,0 18.673000,44.529000,0 18.662000,44.528200,0 18.655000,44.528500,0 18.650000,44.530500,0 18.648200,44.532500,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
