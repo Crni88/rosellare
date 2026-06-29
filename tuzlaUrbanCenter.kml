@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Tuzla Urban Center</name>
+
+    <Style id="style-tuzla">
+        <LineStyle>
+            <color>ff2dc0fb</color>
+            <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>b32dc0fb</color>
+        </PolyStyle>
+    </Style>
+
+    <Placemark><name>Tuzla Urban Center</name><styleUrl>#style-tuzla</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>18.665000,44.544000,0 18.672000,44.546500,0 18.680000,44.547000,0 18.688000,44.545500,0 18.694000,44.542500,0 18.697000,44.538000,0 18.696000,44.533500,0 18.690000,44.530000,0 18.682000,44.528500,0 18.674000,44.528500,0 18.667000,44.530500,0 18.662000,44.534500,0 18.661500,44.539500,0 18.665000,44.544000,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document>
+</kml>
